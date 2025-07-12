@@ -59,7 +59,7 @@ An interactive Power BI dashboard built using the **Sample Superstore dataset** 
 
 ## 📌 How to Use
 
-1. Download the `.pbix` file.
+1. Download the `.pbix` file.https://drive.google.com/file/d/1aTP5Z1kr2HSzr2h_21b8qPYvU_wiZWEU/view?usp=drive_link
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with the filters and visuals to explore the dataset.
 
